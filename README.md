@@ -19,7 +19,7 @@
 
 ## Overview
 
-VQA_Claude is a powerful extension of the Claude AI Toolkit (see: https://github.com/RMNCLDYO/claude-ai-toolkit), offering advanced Visual Question Answering capabilities with multi-page PDF analysis using Claude 3.5 Sonnet at its backend. The toolkit is designed to be user-friendly and highly adaptable, making it suitable for both beginners and advanced users. With the integration of a Streamlit app, users can easily interact with the AI models for text generation and vision analysis.
+VQA_Claude is an extension of the Claude AI Toolkit (see: https://github.com/RMNCLDYO/claude-ai-toolkit), offering advanced Visual Question Answering capabilities with multi-page PDF analysis using Claude 3.5 Sonnet at its backend, via a simple Streamlit app interface. The Claude AI toolkit itself is designed to be user-friendly and highly adaptable, making it suitable for both beginners and advanced users. With the integration of the Streamlit app, users can easily interact with the Anthropic's models for text generation and vision analysis.
 
 ## Key Features
 - **Streamlit App**: User-friendly interface for interacting with the toolkit.
@@ -51,7 +51,7 @@ Here's the formatted content to match a README file for a Git repository:
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/VQA_Claude.git
+git clone https://github.com/menonpg/VQA_Claude.git
 ```
 
 ## Navigate to the Repository Folder
