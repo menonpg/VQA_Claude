@@ -29,7 +29,7 @@
 
 ## Overview
 
-VQA_Claude is a powerful extension of the Claude AI Toolkit, offering advanced Visual Question Answering capabilities with multi-page PDF analysis using Claude 3.5 Sonnet at its backend. The toolkit is designed to be user-friendly and highly adaptable, making it suitable for both beginners and advanced users. With the integration of a Streamlit app, users can easily interact with the AI models for text generation and vision analysis.
+VQA_Claude is a powerful extension of the Claude AI Toolkit (see: https://github.com/RMNCLDYO/claude-ai-toolkit), offering advanced Visual Question Answering capabilities with multi-page PDF analysis using Claude 3.5 Sonnet at its backend. The toolkit is designed to be user-friendly and highly adaptable, making it suitable for both beginners and advanced users. With the integration of a Streamlit app, users can easily interact with the AI models for text generation and vision analysis.
 
 ## Key Features
 - **Streamlit App**: User-friendly interface for interacting with the toolkit.
