@@ -146,3 +146,20 @@ To start the Streamlit app, run:
 ```bash
 streamlit run app.py
 ```
+
+
+## Examples
+
+Below are some examples from the `samples/` folder of the repository. The outputs are based on the prompt asked in the `streamlitUI.png` on the following PDF: `samples/TestPDF.pdf`.
+
+### Streamlit UI
+
+![Streamlit UI](samples/streamlitUI.png)
+
+### Output Part 1
+
+![Output Part 1](samples/output_part1.png)
+
+### Output Part 2
+
+![Output Part 2](samples/output_part2.png)
